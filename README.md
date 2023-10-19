@@ -16,12 +16,12 @@ Just a simple game created as a means to explore and learn Python and Pygame.
 3. Step 3
 ** Enjoy the games** 
 
-##Games settings
-> 3 Tries try to get best score
-10 Bullets
-Increasing difficulty by 1.5
-Increasing score by ``1.5*score``
-Setting can be changed form ``settings.py``
+## Games settings
+- 3 Tries try to get best score
+- 10 Bullets
+- Increasing difficulty by 1.5
+- Increasing score by ``1.5*score``
+- Setting can be changed form ``settings.py``
 
 
 ![Game Image](Screenshot.png)
