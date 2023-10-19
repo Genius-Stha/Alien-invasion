@@ -1,0 +1,8 @@
+
+# Required Python version
+python_version >= 3.6
+# Made in python_version == 3.11.4
+
+# And pygame
+pygame==2.5.1
+
